@@ -7,6 +7,7 @@
 [![GitHub size](https://github-size-badge.herokuapp.com/peerherholz/workshop_Newark.svg)](https://github.com/peerherholz/workshop_Newark/archive/master.zip)
 [![GitHub HitCount](http://hits.dwyl.io/peerherholz/workshop_Newark.svg)](http://hits.dwyl.io/peerherholz/workshop_Newark)
 [![Docker Hub](https://img.shields.io/docker/pulls/peerherholz/workshop_Newark.svg?maxAge=2592000)](https://hub.docker.com/r/peerherholz/workshop_Newark/)
+[![Supported by CONP](https://img.shields.io/badge/Supported%20by-%20CONP%2FPCNO-red)](https://conp.ca/)
 
 This repository contains everything for the workshop in Newark 2019. There are three ways that you can interact with its content:
 
@@ -76,3 +77,10 @@ If you don't care about some of the software dependencies, or have them already 
 ## 3. Jupyter NBViewer
 
 All the notebooks (but not the slides) can be looked at via [Jupyter nbviewer](https://nbviewer.jupyter.org/github/PeerHerholz/workshop_Newark/blob/master/program.ipynb). Like this you can see everything but cannot really interact with the scripts or run the code.
+
+
+## Support
+
+This work was supported in part by funding provided by [Brain Canada](https://braincanada.ca/), in partnership with [Health Canada](https://www.canada.ca/en/health-canada.html), for the `[Canadian Open Neuroscience Platform initiative](https://conp.ca/).
+
+![logo_conp](https://conp.ca/wp-content/uploads/elementor/thumbs/logo-2-o5e91uhlc138896v1b03o2dg8nwvxyv3pssdrkjv5a.png)
