@@ -51,6 +51,7 @@ RUN conda install -y -q --name neuro bokeh \
                                    nistats \
                                    pingouin==0.2.4 \
                                    matplotlib==3.0.3 \
+                                   mne \
                                    nose \
                                    git+https://github.com/bids-standard/pybids.git \
                                    pymvpa2 \
